@@ -21,9 +21,11 @@ I'm a **Biomedical Engineering Educator** passionate about teaching computationa
 ## Teaching & Course Materials
 
 My teaching philosophy centers on **hands-on learning** and *practical application* of computational methods in biomedical engineering. I currently maintain several course repositories:
-
-1. [BME3508 Spring 2025](https://github.com/snsie/bme3508_Spring_2025)
-2. [BME3053c Spring 2025](https://github.com/uf-bme/BME3053C-Spring-2025)
+1. [BME3053c Fall 2024](https://github.com/uf-bme/bme3053c/)
+2. [BME3508 Spring 2025](https://github.com/snsie/bme3508_Spring_2025)
+3. [BME3053c Spring 2025](https://github.com/uf-bme/BME3053C-Spring-2025)
+4. [BME3053c Fall 2025](https://github.com/uf-bme/BME3053C-Fall-2025)
+5. [BME6938 Spring 2026](https://github.com/uf-bme/BME6938-Spring-2026) 
 
 ## Research Interests
 
