@@ -57,12 +57,7 @@ I bring extensive experience in:
 
 Feel free to reach out for collaborations, questions about my courses, or research discussions!
 
-* [University Profile](https://your-university.edu/profile)
-* [LinkedIn](https://linkedin.com/in/yourprofile)
-* [Google Scholar](https://scholar.google.com/citations?user=your-id)
+* [LinkedIn](https://linkedin.com/in/scott-siegel-2b3a37197)
+* [Google Scholar](https://scholar.google.com/citations?user=KOkTGkoAAAAJ&hl=en&oi=ao)
 * [GitHub](https://github.com/snsie)
-
----
-
-*"The best way to predict the future is to create it."*
 
